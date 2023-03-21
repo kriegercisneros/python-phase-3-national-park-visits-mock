@@ -83,7 +83,8 @@ build out any helper methods if needed.
 
 ### Object Relationship Methods and Properties
 
-#### Trip
+#### Trip 
+Trip is the Join Table between Visitors and National Parks 
 
 - `Trip property Visitor`
   - Returns the visitor object for that trip
